@@ -340,14 +340,3 @@ Tests, linting and the frontend build run automatically on every push through **
 - [ ] User accounts with private document libraries
 - [ ] Support for DOCX and TXT files
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-<div align="center">
-
-⭐ If you found this project useful, consider giving it a star!
-
-</div>
